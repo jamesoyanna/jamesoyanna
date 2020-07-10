@@ -1,16 +1,22 @@
+![linkedin-cover](https://user-images.githubusercontent.com/26815113/87206260-43e9c980-c301-11ea-8d2a-f1fc50b7b2a1.PNG)
+
+
+
+
+
+
 ### Hi there 👋
+I am James, Frontend Web Developer.
+I am currently working on developing Financial technology applications.
 
-<!--
-**jamesoyanna/jamesoyanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, SQL/MongoDB, and AWS.
 
-Here are some ideas to get you started:
+I look forward to collaborating with amazing software developers on building Financial technology solutions most especially for the African Market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to any opportunity to contribute to awesome open source projects.
+
+Portfolio: http://www.jamesoyanna.ga
+
+Email: engrjayt200@gmail.com.
+
+I love catching fun and I am happy to hang-out with fun loving people.😄😄😄
