@@ -2,7 +2,9 @@
 
 
 ### Hi there 👋
-I am a proficient Frontend Developer, effective at developing and managing web applications that achieve customer objectives. Exceptional at working alongside designers, developers & customers to determine needs, create plans and optimize design usability and performance. Well-versed in using JavaScript, HTML, CSS and frontend frameworks as well as other resources to accomplish design requirements.
+I am a proficient Frontend Web Developer, effective at developing and managing web applications that achieve customer objectives. 
+
+Exceptional at working alongside designers, developers & customers to determine needs, create plans and optimize design usability and performance. 
 
 I am currently working on developing Financial technology applications.
 
