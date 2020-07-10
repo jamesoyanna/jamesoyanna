@@ -4,8 +4,6 @@
 ### Hi there 👋
 I am a proficient Frontend Web Developer, effective at developing and managing web applications that achieve customer objectives. 
 
-Exceptional at working alongside designers, developers & customers to determine needs, create plans and optimize design usability and performance. 
-
 I am currently working on developing Financial technology applications.
 
 I am developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, SQL/MongoDB, and AWS.
