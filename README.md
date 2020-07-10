@@ -4,11 +4,11 @@
 ### Hi there 👋
 I am a proficient Frontend Web Developer, effective at developing and managing web applications that achieve customer objectives. 
 
-I am currently working on developing Financial technology applications.
+I am currently working on building Financial technology solutions.
 
 I am developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, SQL/MongoDB, and AWS.
 
-I look forward to collaborating with amazing software developers on building Financial technology solutions most especially for the African Market.
+I look forward to collaborating with amazing software developers on building Financial technology applications most especially for the African Market.
 
 I am open to any opportunity to contribute to awesome open source projects.
 
