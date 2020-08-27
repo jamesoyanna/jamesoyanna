@@ -6,13 +6,13 @@ I am a proficient Frontend Web Developer, effective at developing and managing w
 
 I am currently working on building Financial technology solutions.
 
-I am developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, SQL/MongoDB, and AWS.
+I take special interest in developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, Python, SQL/MongoDB, and AWS.
 
-I look forward to collaborating with amazing software developers on building Financial technology applications most especially for the African Market.
+I look forward to collaborating with amazing software developers on building Financial technology applications for the global and most especially the African Market.
 
 I am open to any opportunity to contribute to awesome open source projects.
 
 
-Send me message on: engrjayt200@gmail.com.
+Send me a message: engrjayt200@gmail.com.
 
 I love catching fun and I am happy to hang-out with fun loving people.😄😄😄
