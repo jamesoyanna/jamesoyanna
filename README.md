@@ -1,4 +1,4 @@
-![linkedin-cover](https://user-images.githubusercontent.com/26815113/87206260-43e9c980-c301-11ea-8d2a-f1fc50b7b2a1.PNG)
+![linkedIn-github](https://user-images.githubusercontent.com/26815113/101296131-165a6b00-3822-11eb-94f2-7920a6e527fe.PNG)
 
 
 ### Hi there 👋
