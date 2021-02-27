@@ -1,8 +1,8 @@
-![linkedIn-github](https://user-images.githubusercontent.com/26815113/101296131-165a6b00-3822-11eb-94f2-7920a6e527fe.PNG)
+![github-profile-pic](https://user-images.githubusercontent.com/26815113/109397051-050e8f80-7935-11eb-91b8-27d953a09cae.png)
 
 
 ### Hi there 👋
-I am a proficient Frontend Web Developer, effective at developing and managing web applications that achieve customer objectives. 
+I am a proficient Software Engineer, effective at developing and managing web applications that achieve customer objectives. 
 
 I am currently working on building Financial technology solutions.
 
