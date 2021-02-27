@@ -4,7 +4,13 @@
 ### Hi there 👋
 I am a proficient Software Engineer, effective at developing and managing web applications that achieve customer objectives. 
 
-I am currently working on building Financial technology solutions.
+I am very passionate about building software solutions that solve human and business problems using my skill sets. I am constantly expanding the frontiers of my knowledge in learning new technologies. 
+
+I take pleasure in working in a challenging and agile development environment where I can contribute to team success through hard work, attention to detail, and excellent organizational skills.
+
+I also take a special interest in passing my knowledge to others through mentorship and training programs. 
+
+I am passionate about developing financial technology solutions.
 
 I take special interest in developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, Python, SQL/MongoDB, and AWS.
 
