@@ -1,5 +1,3 @@
-![github-profile-pic](https://user-images.githubusercontent.com/26815113/109397051-050e8f80-7935-11eb-91b8-27d953a09cae.png)
-
 
 ### Hi there 👋
 I am a proficient Software Engineer, effective at developing and managing web applications that achieve customer objectives. 
