@@ -19,4 +19,4 @@ I am open to any opportunity to contribute to awesome open source projects.
 
 Send me a message: engrjayt200@gmail.com.
 
-I love catching fun and I am happy to hang-out with fun loving people.😄😄😄
+I love catching fun and I am happy to hang out with fun-loving people.😄😄😄
