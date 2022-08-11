@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am a proficient Software Engineer, effective at developing and managing web applications that achieve customer objectives. 
+I am a proficient Software Engineer, effective at developing and managing web applications. 
 
 I am very passionate about building software solutions that solve human and business problems using my skill sets. I am constantly expanding the frontiers of my knowledge in learning new technologies. 
 
