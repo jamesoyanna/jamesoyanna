@@ -6,14 +6,13 @@ I am very passionate about building software solutions that solve human and busi
 
 I take pleasure in working in a challenging and agile development environment where I can contribute to team success through hard work, attention to detail, and excellent organizational skills.
 
-I also take a special interest in passing my knowledge to others through mentorship and training programs. 
+I enjoy passing my knowledge to other developers through mentorship and training programs. 
 
 
 I am very passionate about cryptocurrency and blockchain technologies and recently, I have been investing in developing my expertise in blockchain technology.  
 
-I take a keen interest in building cutting-edge cryptographic applications.
 
-I take special interest in developing my expertise in Front and backend technologies specifically React JS, JavaScript, Node JS, Python, SQL/MongoDB, and AWS.
+I take special interest in developing my expertise in Front and backend technologies specifically TypesScript, JavaScript, React JS, Node JS, Python, SQL/MongoDB, and AWS.
 
 I look forward to collaborating with amazing software developers on building crypto currency and financial technology applications for the global and most especially the African Market.
 
