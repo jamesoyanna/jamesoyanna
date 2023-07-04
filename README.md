@@ -1,15 +1,15 @@
 
 ### Hi there 👋
-I am a proficient Software Engineer, effective at developing and managing web applications. 
+I am a Software Engineer.
 
-I am very passionate about building software solutions that solve human and business problems using my skill sets. I am constantly expanding the frontiers of my knowledge in learning new technologies. 
+I am very passionate about building software solutions that solve human and business problems using my skill sets.
 
 I take pleasure in working in a challenging and agile development environment where I can contribute to team success through hard work, attention to detail, and excellent organizational skills.
 
 I enjoy passing my knowledge to other developers through mentorship and training programs. 
 
 
-I am very passionate about cryptocurrency and blockchain technologies and recently, I have been investing in developing my expertise in blockchain technology.  
+I am very passionate about cryptocurrency and blockchain technologies and recently, I have been investing in developing my expertise in Web3 technologies.  
 
 
 I take special interest in developing my expertise in Front and backend technologies specifically TypesScript, JavaScript, React JS, Node JS, Python, SQL/MongoDB, and AWS.
