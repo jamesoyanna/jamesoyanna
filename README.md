@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am a Software Engineer.
+I am a Frontend Engineer.
 
 I am very passionate about building software solutions that solve human and business problems using my skill sets.
 
@@ -12,11 +12,11 @@ I enjoy passing my knowledge to other developers through mentorship and training
 I am very passionate about cryptocurrency and blockchain technologies and recently, I have been investing in developing my expertise in Web3 technologies.  
 
 
-I take special interest in developing my expertise in Front and backend technologies specifically TypesScript, JavaScript, React JS, Node JS, Python, SQL/MongoDB, and AWS.
+I take special interest in developing my expertise in Front and backend technologies specifically TypesScript, JavaScript, React JS, Nextjs, Node JS, Python, SQL/MongoDB, and AWS.
 
-I look forward to collaborating with amazing software developers on building crypto currency and financial technology applications for the global and most especially the African Market.
+I look forward to collaborating with amazing software developers.
 
-I am open to any opportunity to contribute to awesome open source projects.
+I am open to any opportunity to contribute to awesome open-source projects.
 
 
 Send me a message: engrjayt200@gmail.com.
