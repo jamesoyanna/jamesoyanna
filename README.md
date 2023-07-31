@@ -6,8 +6,11 @@
 
 ## Technologies & Tools I work with:
 <br>
- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> <img src="https://img.icons8.com/color/48/000000/typecript.png"/>
-
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
+ 
+ <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
+ 
+ <img src="https://icons8.com/icon/vMqgHSToxrJR/typescript"/>
 
 <br>
 
