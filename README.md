@@ -2,7 +2,7 @@
 
 ## About Me : 
 
-- 🏢 I am a Senior Frontend Engineer and open source contributor and Technical Writer.
+- 🏢 I am a Senior Frontend Engineer, open source contributor, and a Technical Writer.
 ---
 
 ### 📕 Latest Blog posts:
