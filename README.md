@@ -3,6 +3,13 @@
 ## About Me : 
 
 - 🏢 I am a Senior Frontend Engineer, open source contributor, and a Technical Writer.
+
+- ---
+
+### Open source contibutions:
+<!-- BLOG-POST-LIST:START -->
+- Infiscal [Infiscal](https://github.com/Infisical/infisical)
+---
 ---
 
 ### 📕 Latest Blog posts:
