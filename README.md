@@ -2,7 +2,7 @@
 
 ## About Me : 
 
-- 🏢 I am a Senior Frontend Engineer, open source contributor, and a Technical Writer.
+- 🏢 I am a Frontend Engineer, open source contributor, and Technical Writer.
 
 - ---
 
@@ -20,10 +20,6 @@
 - [Building a full-stack Task Management App with Typescript,React,Nodejs part 1](https://dev.to/jamesoyanna/building-a-full-stack-task-management-app-with-typescriptreactnodejs-29in)
 <!-- BLOG-POST-LIST:END -->
 ---
-
-### Github stats:
-![James's github stats](https://github-readme-stats.vercel.app/api?username=jamesoyanna&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesoyanna&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jamesoyanna/github-readme-stats)
 
 <br>
 ---
