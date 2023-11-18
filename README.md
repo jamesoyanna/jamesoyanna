@@ -2,7 +2,7 @@
 
 ## About Me : 
 
-- 🏢 I am a Frontend Engineer, open source contributor, and Technical Writer.
+- 🏢 I am a Software Engineer, open source contributor, and Technical Writer.
 
 - ---
 
