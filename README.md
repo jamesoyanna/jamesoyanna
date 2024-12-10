@@ -2,7 +2,7 @@
 
 ## About Me : 
 
-- 🏢 I am a Software Engineer, open source contributor, and Technical Writer.
+- 🏢 I am a Software Engineer,  Developer Advocate for AI products, and Open Source contributor.
 
 - ---
 
