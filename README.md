@@ -2,9 +2,15 @@
 
 ## About Me : 
 
-- 🏢 I am a Software Engineer,  Developer Advocate for AI products, and Open Source contributor.
+- 🏢 I am a Software Engineer,  Developer Relations Engineer for AI products, and Open Source contributor.
 
 - ---
+### AI Projects I have worked on:
+- https://github.com/jamesoyanna/RecruitlyAI
+
+- https://github.com/jamesoyanna/voice_vision_ai
+
+- https://github.com/jamesoyanna/smartReport_ai
 
 ### Open source contibutions:
 <!-- BLOG-POST-LIST:START -->
